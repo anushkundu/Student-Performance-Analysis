@@ -4,6 +4,7 @@ Objective
 
 The primary objective of this project is to analyze and identify key factors influencing student academic performance. This includes exploring relationships between various attributes (such as demographic, social, and educational factors) and their impact on students' grades or outcomes. Ultimately, the analysis aims to provide actionable insights for improving student performance.
 
+
 # Key Tasks
 
 1. Data Collection and Exploration
@@ -58,6 +59,7 @@ Actions:
 
 •	Analyzed errors to identify areas for improvement.
 
+
 # Key Outcomes
 
 Insights:
@@ -76,6 +78,7 @@ Impact:
 
 •	Demonstrated the importance of certain demographic and social factors in educational performance.
 
+
 # Future Work
 
 •	Expand the analysis to include additional datasets for broader insights.
@@ -84,7 +87,8 @@ Impact:
 
 •	Develop a dashboard for real-time analysis and decision-making.
 
-Prerequisites
+
+# Prerequisites
 
 Python 3.x
 
