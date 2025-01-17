@@ -64,7 +64,7 @@ Actions:
 
 Insights:
 
-  Highlighted the primary factors influencing student performance.
+•	Highlighted the primary factors influencing student performance.
 
 •	Provided actionable recommendations for educators and policymakers.
 
