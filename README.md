@@ -12,7 +12,7 @@ Objective: Understand the structure and content of the dataset.
 
 Actions:
 
-•	Loaded the dataset and performed an initial review of its features and records.
+•	  Loaded the dataset and performed an initial review of its features and records.
 
 •	Conducted exploratory data analysis (EDA) to identify patterns and anomalies in the data.
 
