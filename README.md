@@ -7,7 +7,7 @@ The primary objective of this project is to analyze and identify key factors inf
 
 # Key Tasks
 
-1. Data Collection and Exploration
+## Data Collection and Exploration
 
 Objective: Understand the structure and content of the dataset.
 
@@ -17,7 +17,7 @@ Actions:
 
 •	Conducted exploratory data analysis (EDA) to identify patterns and anomalies in the data.
 
-2. Data Preprocessing
+## Data Preprocessing
 
 Objective: Prepare the dataset for analysis and modeling.
 
