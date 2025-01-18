@@ -29,7 +29,7 @@ Actions:
 
 •	Scaled numerical features for consistency.
 
-3. Feature Selection
+### Feature Selection
 
 Objective: Identify the most significant features influencing student performance.
 
@@ -39,7 +39,7 @@ Actions:
 
 •	Evaluated feature importance using machine learning models.
 
-4. Model Building
+### Model Building
 
 Objective: Predict student performance based on selected features.
 
