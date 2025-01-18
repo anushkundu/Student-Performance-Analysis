@@ -74,7 +74,7 @@ Actions:
 
 •	Achieved high accuracy and reliability in predicting outcomes.
 
-Impact:
+### Impact:
 
 •	Demonstrated the importance of certain demographic and social factors in educational performance.
 
