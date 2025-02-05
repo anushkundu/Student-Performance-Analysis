@@ -3,7 +3,7 @@
 Objective
 
 The primary objective of this project is to analyze and identify key factors influencing student academic performance. This includes exploring relationships between various attributes (such as demographic, social, and educational factors) and their impact on students' grades or outcomes. Ultimately, the analysis aims to provide actionable insights for improving student performance.
-
+as
 
 # Key Tasks
 
